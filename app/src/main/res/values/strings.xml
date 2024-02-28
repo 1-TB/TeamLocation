@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Team Location</string>
+    <string name="mapDesc">This is a map</string>
+    <string name="find_address">Find Address</string>
+    <string name="locate">Locate</string>
+    <string name="address">Address</string>
+    <string name="lat_and_long_of_addr">Lat and long of addr</string>
+    <string name="team_location">Team Location</string>
+    <string name="google_maps_key"></string>
+</resources>
